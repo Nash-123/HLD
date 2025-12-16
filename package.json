@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1",
-    "ip": "^2.0.1"
+    "ip": "^2.0.1",
+    "pm2": "^6.0.14"
   }
 }
